@@ -1,9 +1,10 @@
+
 ### Hi there 👋
 
 
 ⚡ Certifications:
 <div>
-  <img src="https://images.credly.com/images/2030e43f-8003-4d4b-9630-847add403c87/image.png" width="100px" height="100px">
+ <p><img src="https://images.credly.com/images/2030e43f-8003-4d4b-9630-847add403c87/image.png" width="20px" height="20px">  Certified in Cybersecurity (CC) - Issued by (ISC)²</p>
 </div>
 <!--
 **AndreiVod/AndreiVod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
