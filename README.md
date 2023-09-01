@@ -1,10 +1,19 @@
 
 ### Hi there 👋
-
-
-⚡ Certifications:
+-------
+🔭 Toolset:
+-------
 <div>
- <p><img src="https://images.credly.com/images/2030e43f-8003-4d4b-9630-847add403c87/image.png" width="20px" height="20px">  Certified in Cybersecurity (CC) - Issued by (ISC)²</p>
+ <p>C# / Python</p>
+ <p>etc.</p>
+</div>
+
+-------
+⚡ Certifications:
+-------
+<div>
+ <p>Certified in Cybersecurity (CC) - Issued by (ISC)² <img src="https://images.credly.com/images/2030e43f-8003-4d4b-9630-847add403c87/image.png" width="20px" height="20px"></p>
+ <p>Certificate in Computer Science (CS50x) - Issued by Harvard University <img src="https://certificates.cs50.io/eff1babf-3f34-41f5-9727-3eac3b6132aa.pdf?size=letter" width="20px" height="20px"></p>
 </div>
 <!--
 **AndreiVod/AndreiVod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
