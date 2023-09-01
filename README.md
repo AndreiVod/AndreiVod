@@ -2,7 +2,6 @@
 ### Hi there 👋
 -------
 ## 🛠 Toolset:
--------
 <div>
  <p>C# / Python</p>
  <p>etc.</p>
