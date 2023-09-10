@@ -3,7 +3,7 @@
 -------
 ## 🛠 Toolset:
 <div>
- <p>C# / Python</p>
+ <p>C# / Python / HTML / CSS / JS</p>
  <p>etc.</p>
 </div>
 
